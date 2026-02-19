@@ -1,7 +1,7 @@
 # Super Monkey Ball
 
 <p align="center">
-  <img src="./supermonkeyball.jpg" width="600" />
+  <img src="./supermonkeyball.jpg" width="900" />
 </p>
 
 
