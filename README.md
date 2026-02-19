@@ -1,11 +1,11 @@
-# moltball
+# Super Monkey Ball
 
 <p align="center">
-  <img src="./moltball.png" width="320" />
+  <img src="./supermonkeyball.png" width="320" />
 </p>
 
 
-This is the on-chain Solana program (smart contract) for MOLTBALL's fee vault.
+This is the on-chain Solana program (smart contract) for Super Monkey Ball's fee vault.
 
 ## What it does
 
